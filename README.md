@@ -12,8 +12,8 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 ![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=compact&bg_color=0000&langs_count=12)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/matthew-munoz-ramirez/)
-- [GitHub](https://github.com/MatthewM5293)
+- ![LinkedIn](https://skillicons.dev/icons?i=linkedin)[LinkedIn](https://www.linkedin.com/in/matthew-munoz-ramirez/)
+- ![GitHub]((https://skillicons.dev/icons?i=github)[GitHub](https://github.com/MatthewM5293)
 
 ## Skills
 
@@ -21,10 +21,10 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 ![Languages](https://skillicons.dev/icons?i=py,cs,cpp,java,js,ts,php,dart,html)
 
 #### Frameworks and Libraries
-![Frameworks](https://skillicons.dev/icons?i=flask,dotnet,bootstrap,react,angular,nodejs)
+![Frameworks](https://skillicons.dev/icons?i=flask,dotnet,bootstrap,react,angular,nodejs,flutter)
 
 #### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=docker,aws,github,jira,postman,mongodb,azure,firebase)
+![Tools](https://skillicons.dev/icons?i=docker,aws,github,jira,postman,mongodb,azure,firebase,idea)
 
 #### Development Practices
 - Agile Methodology
