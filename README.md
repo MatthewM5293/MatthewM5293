@@ -3,16 +3,16 @@
 Welcome to my GitHub profile! 🌟
 
 ## About Me
-I'm an innovative and detail-oriented Software Developer with hands-on experience in designing, testing, and deploying impactful software solutions. I recently earned a **Bachelor of Science in Computer Science** from **Neumont College of Computer Science**, where I graduated with a 3.96 GPA in just three years. I have a passion for leveraging my skills in programming, problem-solving, and system optimization to tackle complex challenges. 
+I'm an innovative and detail-oriented Software Developer with hands-on experience designing, testing, and deploying impactful software solutions. I recently earned a **Bachelor of Science in Computer Science** from **Neumont College of Computer Science**, where I graduated with a 3.96 GPA in just three years. I have a passion for leveraging my skills in programming, problem-solving, and system optimization to tackle complex challenges. 
 
 When I'm not coding, you can find me mentoring students, tinkering with robotics, or working on exciting full-stack projects.
 
 ## GitHub Stats
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewM5293&show_icons=true&theme=tokyonight&include_all_commits=true&bg_color=0000)
-![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=compact&bg_color=0000&langs_count=12)
+![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=compact&bg_color=0000&langs_count=10&hide=kotlin,swift,cmake)
 
 ## Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matthew-munoz-ramirez/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MatthewM5293)]
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matthew-munoz-ramirez/)                            [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MatthewM5293)
 
 ## Skills
 
