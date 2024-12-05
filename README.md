@@ -9,7 +9,7 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 
 ## GitHub Stats
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewM5293&show_icons=true&theme=transparent&include_all_commits=true)
-![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&layout=donut)
+![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&hide_progress=true&bg_color=000000)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/matthew-munoz-ramirez/)
