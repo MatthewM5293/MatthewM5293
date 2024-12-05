@@ -8,22 +8,28 @@ I'm an innovative and detail-oriented Software Developer with hands-on experienc
 When I'm not coding, you can find me mentoring students, tinkering with robotics, or working on exciting full-stack projects.
 
 ## GitHub Stats
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewM5293&show_icons=true&theme=tokyonight&include_all_commits=true&bg_color=0000)
-![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=compact&bg_color=0000&langs_count=10&hide=kotlin,swift,cmake)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewM5293&show_icons=true&theme=tokyonight&include_all_commits=true&bg_color=0000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=compact&bg_color=0000&langs_count=10&hide=kotlin,swift,make"/>
+</p>
 
 ## Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matthew-munoz-ramirez/)                            [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MatthewM5293)
+<p align="center">
+  <a href="mailto:mrmatthew5293@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.linkedin.com/in/matthew-munoz-ramirez/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://github.com/MatthewM5293/"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
 
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=py,cs,cpp,java,js,ts,php,dart,html)
+![Languages](https://skillicons.dev/icons?i=py,cs,cpp,java,js,ts,php,dart,html,css)
 
 #### Frameworks and Libraries
 ![Frameworks](https://skillicons.dev/icons?i=flask,dotnet,bootstrap,react,angular,nodejs,flutter)
 
 #### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=docker,aws,github,jira,postman,mongodb,azure,firebase,idea)
+![Tools](https://skillicons.dev/icons?i=docker,aws,github,figma,postman,mysql,mongodb,azure,firebase,idea,visualstudio,windows)
 
 #### Development Practices
 - Agile Methodology
