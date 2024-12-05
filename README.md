@@ -8,7 +8,7 @@ I'm an innovative and detail-oriented Software Developer with hands-on experienc
 When I'm not coding, you can find me mentoring students, tinkering with robotics, or working on exciting full-stack projects.
 
 ## GitHub Stats
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewM5293&show_icons=true&theme=transparent)
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewM5293&show_icons=true&theme=transparent&include_all_commits=true)
 ![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&layout=donut)
 
 ## Connect with Me
