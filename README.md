@@ -38,19 +38,19 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 **Technologies**: React, .NET Web API, Flutter/Dart, MongoDB, AWS EC2  
 - A personal finance platform for budgeting, expense tracking, and staying informed about stocks and news.
 
-### [Stack Overspin](#)
+### [Stack Overspin](https://www.neumont.edu/news-summary/stack-overspin)
 **Technologies**: Arduino, Autodesk Fusion 360, Brushless Motors  
 - Designed and built a melty-brain combat robot for Utah Combat Robotics Spring Fling 2024, showcasing expertise in robotics.
 
-### [NeuNews](#)
+### [NeuNews](https://github.com/MRowlandRat/NeuNews)
 **Technologies**: PHP, Flutter/Dart, AWS EC2, Beanstalk  
 - Developed a mobile app for sharing news, events, and updates with Neumont College's student body.
 
-### [Echo](#)
+### [Echo](https://github.com/MatthewM5293/Matthew-Munoz-Ramirez-Capstone)
 **Technologies**: ASP.NET Core, Flutter/Dart, Firebase  
 - Created a scalable social media platform for real-time interactions and user posts on a 24-hour public feed.
 
-### [Bobot](#)
+### [Bobot](https://github.com/AMadmanWithABox/BobotPythonEdition)
 **Technologies**: Python, OpenCV, AI  
 - Built an autonomous robot capable of detecting and moving toward motion, winning 1st place at FReX 2022.
 
