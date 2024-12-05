@@ -14,22 +14,22 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 </p>
 
 ## Connect with Me
-<p align="center">
-  <a href="mailto:mrmatthew5293@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://www.linkedin.com/in/matthew-munoz-ramirez/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://github.com/MatthewM5293/"><img src="https://skillicons.dev/icons?i=github"/></a>
+<p align="center"> 
+  <a href="mailto:mrmatthew5293@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a> 
+  <a href="https://www.linkedin.com/in/matthew-munoz-ramirez/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> 
+  <a href="https://github.com/MatthewM5293/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=py,cs,cpp,java,js,ts,php,dart,html,css)
+<p> <img src="https://skillicons.dev/icons?i=py,cs,cpp,java,js,ts,php,dart,html,css" alt="Languages" /> </p>
 
 #### Frameworks and Libraries
-![Frameworks](https://skillicons.dev/icons?i=flask,dotnet,bootstrap,react,angular,nodejs,flutter)
+<p> <img src="https://skillicons.dev/icons?i=flask,dotnet,bootstrap,react,angular,nodejs,flutter" alt="Frameworks" /> </p>
 
 #### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=docker,aws,github,figma,postman,mysql,mongodb,azure,firebase,idea,visualstudio,windows)
+<p> <img src="https://skillicons.dev/icons?i=docker,aws,github,figma,postman,mysql,mongodb,azure,firebase,idea,visualstudio,windows" alt="Tools" /> </p>
 
 #### Development Practices
 - Agile Methodology
@@ -62,7 +62,7 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 
 ## Achievements
 - **1st Place**: FReX 2022 Non-Gaming Projects  
-- Leadership roles: Vice President of NeuRobotics Club, Vice-Chairman of Student Government  
+- Held leadership roles as Vice President of NeuRobotics Club and Vice-Chairman of Student Government.  
 - Automated workflows and improved testing efficiency across multiple internships.
 
 
