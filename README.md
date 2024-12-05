@@ -13,7 +13,7 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 
 ## Connect with Me
 - ![LinkedIn](https://skillicons.dev/icons?i=linkedin)[LinkedIn](https://www.linkedin.com/in/matthew-munoz-ramirez/)
-- ![GitHub]((https://skillicons.dev/icons?i=github)[GitHub](https://github.com/MatthewM5293)
+- ![GitHub](https://skillicons.dev/icons?i=github)[GitHub](https://github.com/MatthewM5293)
 
 ## Skills
 
