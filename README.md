@@ -1,7 +1,5 @@
 # Hey, I'm Matthew Munoz-Ramirez! 
 
-Welcome to my GitHub profile! 🌟
-
 ## About Me
 I'm an innovative and detail-oriented Software Developer with hands-on experience designing, testing, and deploying impactful software solutions. I recently earned a **Bachelor of Science in Computer Science** from **Neumont College of Computer Science**, where I graduated with a 3.96 GPA in just three years. I have a passion for leveraging my skills in programming, problem-solving, and system optimization to tackle complex challenges. 
 
