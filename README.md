@@ -12,8 +12,7 @@ When I'm not coding, you can find me mentoring students, tinkering with robotics
 ![Matthew's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewM5293&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_progress=false&layout=compact&bg_color=0000&langs_count=12)
 
 ## Connect with Me
-- ![LinkedIn](https://skillicons.dev/icons?i=linkedin)[LinkedIn](https://www.linkedin.com/in/matthew-munoz-ramirez/)
-- ![GitHub](https://skillicons.dev/icons?i=github)[GitHub](https://github.com/MatthewM5293)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matthew-munoz-ramirez/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MatthewM5293)]
 
 ## Skills
 
