@@ -38,7 +38,7 @@ I'm an innovative and detail-oriented Software Developer with hands-on experienc
 
 ## Notable Projects
 
-### [FairShare](#)
+### [FairShare](https://github.com/MatthewM5293/FairShareReact)
 **Technologies**: React, .NET Web API, Flutter/Dart, MongoDB, AWS EC2  
 - A personal finance platform for budgeting, expense tracking, and staying informed about stocks and news.
 
